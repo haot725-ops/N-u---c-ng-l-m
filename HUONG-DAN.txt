@@ -1,0 +1,1 @@
+Giai nen ZIP, tai index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png va .nojekyll vao cung thu muc goc kho GitHub. Khong tai nguyen file ZIP. Giu main / root. Sao luu JSON truoc. Khi sua phien ban sau, doi ten CACHE trong sw.js de cap nhat bo dem. Du lieu van dung khoa nau-shifts-v5, khong doi dia chi trang.
