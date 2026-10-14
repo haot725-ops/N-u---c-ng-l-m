@@ -1,9 +1,9 @@
 {
   "name": "Nâu – Sổ công",
   "short_name": "Nâu",
-  "id": "./",
-  "start_url": "./",
-  "scope": "./",
+  "id": "/Nau-s-c-ng/",
+  "start_url": "/Nau-s-c-ng/",
+  "scope": "/Nau-s-c-ng/",
   "display": "standalone",
   "background_color": "#eee8e0",
   "theme_color": "#eee8e0",
